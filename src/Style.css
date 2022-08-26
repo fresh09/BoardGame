@@ -1,0 +1,10 @@
+td {
+  border: 1px solid grey;
+  height: 2em;
+  width: 2em;
+  text-align: center;
+  vertical-align: middle;
+}
+.inlineBlock {
+  display: inline-block;
+}
